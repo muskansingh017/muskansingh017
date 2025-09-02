@@ -1,5 +1,5 @@
 # 💫About Me :
-Pursuing Bachelors Of Computer Application (BCA) || Learning Front-end Web Development
+Pursuing Bachelors Of Computer Application (BCA) || Learning Front-end Web Development And DSA With JAVA
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muskansingh017/) 
